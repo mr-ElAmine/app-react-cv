@@ -10,7 +10,7 @@ const Sociale = () => {
                         <i className="fa fa-github"></i>
                     </li>
                     <li>
-                        <a href="https://www.linkedin.com/in/aissa-mohamed-el-amine-arar-78a613267/">Linkedin</a>
+                        <a href="https://www.linkedin.com/in/aissa-arar-78a613267/">Linkedin</a>
                         <i className="fa fa-linkedin"></i>
                     </li>
                     <li>

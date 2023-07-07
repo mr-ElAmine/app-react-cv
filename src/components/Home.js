@@ -22,13 +22,6 @@ const Home = () => {
                         formation à l'école.
                     </p>
                 </div>
-                <div className='pdf'>
-                    <a href='./media/cv.pdf' target="_blank">
-                        <span>
-                            cliquez ici pour télécharger mon CV
-                        </span>
-                    </a>
-                </div>
             </div>
          </div>
     );

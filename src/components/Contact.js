@@ -15,6 +15,10 @@ const Contact = () => {
                             <h4>Tel :</h4>
                             <h5>+33 6 46 60 07 18</h5>
                         </div>
+                        <div>
+                            <h4>Adresse :</h4>
+                            <h5>95000, Cergy</h5>
+                        </div>
                     </div>
                 </div>
             </div>

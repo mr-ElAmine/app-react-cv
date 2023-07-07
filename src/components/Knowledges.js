@@ -35,8 +35,8 @@ const Knowledges = () => {
                     <ul>
                         <li>
                             <div>
-                                <h4>Actuel - 2023 : Coding Factory by ESIEE-IT - Cergy</h4>
-                                <h5>Licence : développeur Web & Mobile Sécurité (Full-Stack)</h5>
+                                <h4>2025 - 2023 : Coding Factory by ESIEE-IT - Cergy</h4>
+                                <h5>Bachelor : développeur Web & Mobile Sécurité (Full-Stack)</h5>
                             </div>
                         </li>
                         <li>

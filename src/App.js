@@ -9,8 +9,8 @@ const App = () => {
     <div>
       <BrowserRouter>
         <Routes>
-          <Route path='/' element={<Main/>} />
-          <Route path='*' element={<NotFound/>} />
+          <Route path='/app-react-cv/' element={<Main/>} />
+          <Route path='/*' element={<NotFound/>} />
         </Routes>
       </BrowserRouter>
     </div>
